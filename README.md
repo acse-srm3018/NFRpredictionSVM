@@ -20,10 +20,10 @@ After that we used a pressure derivative function to take derivative.
 
 
 ## Dataset
-You can download dataset from [Excel file 1](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
-and derivative dataset from [Excel file 2](https://github.com/acse-srm3018/ReservoirClassification/blob/main/dataset.xlsx).
+You can download dataset from [Excel file](https://github.com/acse-srm3018/NFRpredictionSVM/blob/main/Dataset.xlsx).
 
-The dataset includes 3250 data within 6 clases that will be used for training ANN models.
+
+The dataset includes 500 data within 6 clases that will be used for training ANN models.
 
 ## Basic information
 
@@ -32,8 +32,7 @@ An overview of the files is provided below.
 - `src_matlab/` contains all matlab code files
 - `GenerationData/` contains all codes we used to generate data.
 - `dataset.xlsx` all generated pressure data that use as training and validation dataset.
-- `pressurederivative.xlsx` all pressure derivative that feed as training and validation dataset to network.
-- `document.pdf` report in pdf format.
+- `AJGS.pdf` article in pdf format.
 - `LICENSE.txt` is the MIT license.
 - `README.md` contains basic information for the repository and detailed information for how to compile and reproduce the results.
 
@@ -43,21 +42,13 @@ An overview of the files is provided below.
 you can clone and open directories using
 
 ```
-git clone https://github.com/acse-srm3018/ReservoirClassification
+git clone https://github.com/acse-srm3018/NFRpredictionSVM
 ```
 
 ## Documentation
 
- The articles published and can be found [here](https://github.com/acse-srm3018/ReservoirClassification/blob/main/document.pdf).
-
-
-## Further investigation
-
-- Increasing number of data in dataset preparing more data using simulator or real labratory data.
+ The articles published and can be found [here](https://github.com/acse-srm3018/NFRpredictionSVM/blob/main/AJGS.pdf).
 
 ## References
 
-* PanSystem. 2018. Reservoir modeling software by Weatherford. https://www.weatherford.com/en/products-and-services/software/production-optimization-platform/reservoir-modeling-and-monitoring/ [accessed May 2018]
-* Tian, C. and Horne, R.N., 2017. Recurrent Neural Networks for Permanent Downhole Gauge Data Analysis. SPE-187181-MS. Society of Petroleum Engineers Annual Technical Conference and Exhibition, 9-11 October, 2017 San Antonio, Texas, USA  12 pages. https://doi.org/10.2118/187181-MS 
-* Tian, C., 2018. Machine Learning Approaches For Permanent Downhole Gauge Data Interpretation (Doctoral dissertation, Stanford University), 199 pages.  https://pangea.stanford.edu/ERE/pdf/pereports/PhD/Tian_Chuan2018.pdf
 
