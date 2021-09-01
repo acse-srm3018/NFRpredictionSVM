@@ -30,7 +30,7 @@ The dataset includes 500 data within 6 clases that will be used for training ANN
 An overview of the files is provided below.
 - `src_python/` contains all python code files
 - `src_matlab/` contains all matlab code files
-- `GenerationData/` contains all codes we used to generate data.
+- `images/` contains all images used in the article.
 - `dataset.xlsx` all generated pressure data that use as training and validation dataset.
 - `AJGS.pdf` article in pdf format.
 - `LICENSE.txt` is the MIT license.
