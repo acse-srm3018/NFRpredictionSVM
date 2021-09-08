@@ -1,4 +1,4 @@
-# Auto-characterization NFR using multi-output least squares support vector regression
+# Auto-characterization NFR using least squares support vector regression
 
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
