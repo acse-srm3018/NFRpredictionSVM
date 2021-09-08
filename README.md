@@ -33,7 +33,7 @@ An overview of the files is provided below.
 
 ## Installation
 
-you can clone and open directories using
+you can clone and open directories using following in your terminal:
 
 ```
 git clone https://github.com/acse-srm3018/NFRpredictionSVM
