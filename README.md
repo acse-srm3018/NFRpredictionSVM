@@ -42,7 +42,7 @@ git clone https://github.com/acse-srm3018/NFRpredictionSVM
 
 ## Documentation
 
- The articles published and can be found [here](https://github.com/acse-srm3018/NFRpredictionSVM/blob/main/AJGS.pdf).
+ The articles published and can be found [here](https://github.com/acse-srm3018/NFRpredictionSVM/blob/main/AJGS.pdf)
 
 ## References
 
